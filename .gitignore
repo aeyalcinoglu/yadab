@@ -1,0 +1,8 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+optimized_arbitrage_results.log
+**/*just-leave-me-here-and-dont-touch-me-plz*.log*

@@ -1,0 +1,107 @@
+{
+  "dex": {
+    "uniswapv2": {
+      "router_address": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "factory_address": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    },
+    "sushiswapv2": {
+      "router_address": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+      "factory_address": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac"
+    },
+    "pancakeswapv2": {
+      "router_address": "0xEfF92A263d31888d860bD50809A8D171709b7b1c",
+      "factory_address": "0x1097053Fd2ea711dad45caCcc45EfF7548fCB362"
+    },
+    "shibaswapv2": {
+      "router_address": "0x03f7724180aa6b939894b5ca4314783b0b36b329",
+      "factory_address": "0x115934131916c8b277dd010ee02de363c09d037c"
+    },
+    "apeswapv2": {
+      "router_address": "0x5f509a3C3F16dF2Fba7bF84dEE1eFbce6BB85587",
+      "factory_address": "0xBAe5dc9B19004883d0377419FeF3c2C8832d7d7B"
+    },
+    "uniswapv3": {
+      "quoter_address": "0x61fFE014bA17989E743c5F6cB21bF9697530B21e"
+    },
+    "sushiswapv3": {
+      "quoter_address": "0x64e8802FE490fa7cc61d3463958199161Bb608A7"
+    }
+  },
+  "token": {
+    "WBTC": {
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "relative_price": 0.000035,
+      "decimals": 8
+    },
+    "PEPE": {
+      "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "relative_price": 819248,
+      "decimals": 18
+    },
+    "WETH": {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "relative_price": 0.0005,
+      "decimals": 18
+    },
+    "USDT": {
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "relative_price": 1,
+      "decimals": 6
+    },
+    "USDC": {
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "relative_price": 1,
+      "decimals": 6
+    },
+    "DAI": {
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "relative_price": 1,
+      "decimals": 18
+    },
+    "FRAX": {
+      "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "relative_price": 1,
+      "decimals": 18
+    },
+    "FXS": {
+      "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+      "relative_price": 0.15,
+      "decimals": 18
+    },
+    "LINK": {
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "relative_price": 0.142,
+      "decimals": 18
+    },
+    "UNI": {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "relative_price": 0.17,
+      "decimals": 18
+    },
+    "wstETH": {
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "relative_price": 0.0005,
+      "decimals": 18
+    },
+    "SUSHI": {
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "relative_price": 1.4,
+      "decimals": 18
+    },
+    "ILV": {
+      "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+      "relative_price": 0.02,
+      "decimals": 18
+    },
+    "COMP": {
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "relative_price": 0.02,
+      "decimals": 18
+    },
+    "MYTH": {
+      "address": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
+      "relative_price": 5,
+      "decimals": 18
+    }
+  }
+}
